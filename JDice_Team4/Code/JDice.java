@@ -25,6 +25,7 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
  */
+//Duy commented
 public class JDice {
     static final String CLEAR="Clear";
     static final String ROLL="Roll Selection";
