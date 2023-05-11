@@ -1,0 +1,14 @@
+git clone : đồng bộ dữ liệu về máy
+git status : kiểm tra tình trang
+git add hi.txt: add file hi.txt
+git add * : add hết file
+git commit -m"Comment" : đồng bộ local
+git push: đồng bộ với github trên trang web về local
+git pull: lấy code từ github đồng bộ về với local
+git commit -a -m"Comment" : trực tiếp commit, cập nhật luôn dữ liệu
+
+Cách reversion cho github:
+git log: lấy id những lần update
+Ctrl + c: dừng lệnh đang chạy và để chạt câu lệnh khác
+Copy: id
+git revert id: quay lại thời điểm bạn muốn backup
